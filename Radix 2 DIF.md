@@ -1,17 +1,18 @@
 ## EXP NO:01	RADIX-2 DECIMATION-IN-FREQUENCY (DIF) FFT
 ## DATE :
-## AIM:
+## AIM: To implement the Radix-2 DIF FFT algorithm in MATLAB and analyze the frequency-domain representation of a given discrete-time sequence.
 
-To implement the Radix-2 DIF FFT algorithm in MATLAB and analyze the frequency-domain representation of a given discrete-time sequence.
 ## Apparatus / Software Required:
 MATLAB (any version supporting basic matrix operations)
 Computer system
+
 ## Theory:
 The Fast Fourier Transform (FFT) is an efficient algorithm to compute the Discrete Fourier Transform (DFT) of a sequence.
 The Radix-2 Decimation-in-Frequency (DIF) algorithm works by successively breaking down the computation of the DFT into smaller DFTs using a divide-and-conquer approach.
 DIF splits the input sequence in the frequency domain.
 The butterfly structure is used to combine the results efficiently.
 Twiddle factors WNk=e−j(2πk/N)W_N^k = e^{-j(2\pi k / N)}WNk=e−j(2πk/N) are used for complex multiplications.
+
 ## Algorithm:
 Input: Sequence x(n) of length N (where N is a power of 2).
 Check: If N is not a power of 2, zero-pad the sequence to the next power of 2.
@@ -83,7 +84,7 @@ ylabel('∠X(k)');
 
 
 
-
+<img width="946" height="1013" alt="image" src="https://github.com/user-attachments/assets/1089bc55-4148-4a26-8a9a-0bfab45cbad9" />
 
 
 
