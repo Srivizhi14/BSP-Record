@@ -2,9 +2,7 @@
 
 ## DATE :
 
-## AIM:
-
-To design a digital Chebyshev filter using bilinear method satisfying the constraints using matlab. Assume T=1 sec
+## AIM: To design a digital Chebyshev filter using bilinear method satisfying the constraints using matlab. Assume T=1 sec
 
 0.8 ≤│H(w)│≤ 1.0               ; 0 ≤w ≤ 0.2 π
                                                       │H(w)│≤  0.2              ; 0.32 ≤ w ≤ π
@@ -64,7 +62,7 @@ ylabel('Magnitude','fontweight','b');
 
 ## OUTPUT
 
-
+<img width="957" height="1018" alt="image" src="https://github.com/user-attachments/assets/68db9a70-7aa6-4790-8792-c2b6014621ea" />
 
 
 ##  RESULT:
