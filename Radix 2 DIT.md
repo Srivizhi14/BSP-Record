@@ -1,16 +1,18 @@
 ## EXP NO: 02	RADIX-2 DECIMATION IN TIME FFT  
 ## DATE :
-## Aim:
-To implement the Radix-2 Decimation-in-Time (DIT) Fast Fourier Transform (FFT) algorithm in MATLAB and analyze the frequency-domain representation of a given discrete-time sequence..
+## Aim:  To implement the Radix-2 Decimation-in-Time (DIT) Fast Fourier Transform (FFT) algorithm in MATLAB and analyze the frequency-domain representation of a given discrete-time sequence..
+
 ## Requirements:
 MATLAB software
 Understanding of DFT, FFT, and Radix-2 algorithms
+
 # Theory
 The Fast Fourier Transform (FFT) is an efficient algorithm for computing the Discrete Fourier Transform (DFT) and its inverse.
 The Radix-2 DIT FFT is applicable when the number of input samples N is a power of two. It works by:
 Splitting the input sequence into even and odd-indexed samples.
 Computing smaller DFTs recursively.
 Combining the results using butterfly computations.
+
 ## ALGORITHM
 •  Start the program.
 •  Define the input sequence x(n) and length N (must be a power of 2).
@@ -94,7 +96,7 @@ grid on;
 ## OUTPUT
  
 
-
+<img width="956" height="1018" alt="image" src="https://github.com/user-attachments/assets/937a915a-1308-48c4-8253-8c49cae168f9" />
 
 
 
