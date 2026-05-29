@@ -1,8 +1,9 @@
-## EXP NO: 4	DESIGN OF DIGITAL CHEBYSHEV IIR FILTER
+## EXP NO: 04	DESIGN OF DIGITAL CHEBYSHEV IIR FILTER
 
-## DATE :
+## DATE :09/05/2026
 
-## AIM: To design a digital Chebyshev filter using bilinear method satisfying the constraints using matlab. Assume T=1 sec
+## AIM: 
+To design a digital Chebyshev filter using bilinear method satisfying the constraints using matlab. Assume T=1 sec
 
 0.8 ≤│H(w)│≤ 1.0               ; 0 ≤w ≤ 0.2 π
                                                       │H(w)│≤  0.2              ; 0.32 ≤ w ≤ π
