@@ -1,7 +1,8 @@
-## EXP NO:	QRS COMPLEX DETECTION FROM ECG SIGNAL
-## DATE :
+## EXP NO: 06   QRS COMPLEX DETECTION FROM ECG SIGNAL
+## DATE :16/05/2026
 
-## AIM : To analyze the ECG signal using MATLAB and extract important features such as heart rate, QRS complex, and waveform visualization.
+## AIM :
+To analyze the ECG signal using MATLAB and extract important features such as heart rate, QRS complex, and waveform visualization.
 
 ## APPARATUS / SOFTWARE REQUIRED
 Computer with MATLAB installed
