@@ -1,5 +1,5 @@
-## EXP NO: 	DESIGN OF FIR FILTER USING RECTANGULAR WINDOWS 
-## DATE :
+## EXP NO: 05   DESIGN OF FIR FILTER USING RECTANGULAR WINDOWS 
+## DATE :15/05/2026
 
 ## AIM: To design a linear phase FIR band stop filter to reject frequencies in the range 0.4π  to 0.65π rad/sec using rectangular window , by taking 7 samples of window sequence using matlab.
 ## ALGORITHM:
